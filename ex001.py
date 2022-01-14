@@ -1,3 +1,5 @@
+# example of advanage of stream processing
+# rather than batch processing
 import numpy as np
 numbers = range(100000)
 
